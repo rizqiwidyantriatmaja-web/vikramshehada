@@ -34,7 +34,7 @@ body{
     list-style:none;
 }
 
-.menu ul li a {
+.menu ul li {
     float:left;
     width:70px;
     display:block;
