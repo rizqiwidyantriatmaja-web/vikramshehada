@@ -1,5 +1,5 @@
 body{
-    background:#00E7FF;
+    background:#fff;
     color:#333;
     width:100%;
     font-family:sans-serif;
@@ -86,7 +86,7 @@ body{
 }
 
 .footer{
-    width:90%;
+    width:100%;
     margin:auto;
     height:40px;
     line-height:40px;
